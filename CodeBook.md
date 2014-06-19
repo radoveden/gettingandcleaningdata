@@ -1,4 +1,5 @@
-The columns are identified by the number of the test person, followed by the activity:
+##Rows
+The rows are identified by the number of the test person (1-3), followed by the activity:
 - laying
 - sitting
 - standing
@@ -6,4 +7,5 @@ The columns are identified by the number of the test person, followed by the act
 - walking_downstairs
 - walking_upstairs
 
-For the rows I kept the names as described in features_info.txt. I remember you I retained only the mean() and std() values here
+##Columns
+For the columns I kept the names as described in features_info.txt. I retained only the mean() and std() values here
